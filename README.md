@@ -1,6 +1,8 @@
 appengine-endpoints-helloendpoints-java-maven
 =============================================
 
+Would like to explore the API? Follow: http://apis-explorer.appspot.com/apis-explorer/?base=https://ventusapi.appspot.com/_ah/api#p/
+
 A "hello world" application for Google Cloud Endpoints in Java.
 
 - [App Engine][1]
